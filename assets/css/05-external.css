@@ -1,0 +1,28 @@
+*{
+    color:brown;
+}
+/*
+yorum satiri bu sekilde acilabiliyor
+*/
+h1{
+    font: size 3rem;
+    text-align: center;
+    color:blue;
+}
+
+.aaa{
+    font-size:1.3rem;
+    background-color:rgb(0, 255, 85);
+    color:rgb(219, 141, 39)
+
+}
+
+.bbb{
+    font-weight: bold;
+
+}
+
+p.aaa{
+        text-align: center;
+        color:red;
+    }
