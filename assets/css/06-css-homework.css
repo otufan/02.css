@@ -1,0 +1,10 @@
+div {
+    font-size:2rem;
+  text-align: center;
+  background-color: rgb(165, 159, 159);
+  width: 200px;
+}
+.aktif {
+  background-color: rgb(58, 54, 54);
+  color: white;
+}
