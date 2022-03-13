@@ -1,0 +1,32 @@
+nav.menu {
+  font-family: "Roboto", sans-serif;
+  list-style: "💠";
+  text-align: left;
+  background-color: rgb(180, 177, 177);
+  width: 300px;
+}
+ul.menu {
+  list-style-type: "💠";
+  padding: 0;
+  list-style-position: inside;
+}
+.active {
+  background-color: gray;
+}
+
+li.item {
+  padding: 0.5rem;
+}
+
+a.link {
+  text-decoration: none;
+  font-weight: 400;
+  color: black;
+}
+a.link:visited {
+  color: rgb(126, 35, 35);
+}
+a.link:hover {
+  background-color: burlywood;
+  color: cornflowerblue;
+}
